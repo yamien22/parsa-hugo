@@ -1,7 +1,7 @@
 # default config
-baseurl = "https://examplesite.org"
+baseurl = "https://yamienramone.netlify.app"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Yamien Ramone"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
